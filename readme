@@ -4,12 +4,12 @@
 # ✨ **GitHub README Generator** ✨
 
 ## 📜 **Table of Contents**
-- [📖 Description](#description)
-- [💾 Installation Instructions](#installation-instructions)
-- [🚀 Usage Instructions](#usage-instructions)
-- [⚖️ License Information](#license-information)
-- [💡 Acknowledgments](#acknowledgments)
-- [❓ Questions](#questions)
+- [📖 Description](#-description)
+- [💾 Installation Instructions](#-installation-instructions)
+- [🚀 Usage Instructions](#-usage-instructions)
+- [⚖️ License Information](#-license-information)
+- [💡 Acknowledgments](#-acknowledgments)
+- [❓ Questions](#-questions)
 
 ## 📖 **Description**
 The **GitHub README Generator** is a **command-line application** that dynamically generates a professional `README.md` file based on user input. This tool streamlines the process of creating comprehensive project documentation, ensuring that developers can quickly produce high-quality READMEs for their GitHub repositories.
